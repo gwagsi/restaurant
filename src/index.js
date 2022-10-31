@@ -1,1 +1,1 @@
-alert("everything works")
+import "./styles.css"
